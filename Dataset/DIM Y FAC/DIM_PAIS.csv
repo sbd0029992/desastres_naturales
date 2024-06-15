@@ -1,0 +1,229 @@
+ID,NOMBRE,CIUDAD
+1,Afghanistan,Khinjan Pass
+2,Albania,Northern
+3,Algeria,Northeast
+4,American Samoa,Null
+5,Angola,Benguela
+6,Anguilla,Null
+7,Antigua and Barbuda,Null
+8,Argentina,Mendoza
+9,Armenia,Noyemberyan city
+10,Australia,Queensland
+11,Austria,Alps
+12,Azerbaijan,Agjabedi
+13,Azores Islands,Terceira
+14,Bahamas (the),Null
+15,Bahrain,Null
+16,Bangladesh,Khulna
+17,Barbados,Entire Isl.
+18,Belarus,Stolin
+19,Belgium,Bassenge
+20,Belize,"Coast, Southern"
+21,Benin,Atacora region
+22,Bermuda,South East
+23,Bhutan,Null
+24,Bolivia (Plurinational State of),Beni
+25,Bosnia and Herzegovina,Mostar
+26,Botswana,Countrywide
+27,Brazil,Northeast
+28,Brunei Darussalam,Null
+29,Bulgaria,Svishtov
+30,Burkina Faso,Nationwide
+31,Burundi,Null
+32,Cabo Verde,Null
+33,Cambodia,Null
+34,Cameroon,Null
+35,Canada,Ontario
+36,Canary Is,Null
+37,Cayman Islands (the),Null
+38,Central African Republic,Bangui
+39,Chad,Null
+40,Chile,Valparaiso
+41,China,Yunnan province
+42,Colombia,Pereira (Bahia Solano)
+43,Comoros (the),Grande Comore
+44,Congo (the Democratic Republic of the),Equator province
+45,Congo (the),Northern area
+46,Cook Islands (the),Aitutaki
+47,Costa Rica,Limao
+48,Côte d’Ivoire,Null
+49,Croatia,Ston
+50,Cuba,Null
+51,Cyprus,Null
+52,Czech Republic (the),Bruntal
+53,Czechoslovakia,Tatra montains (Slovakia)
+54,Denmark,Null
+55,Djibouti,Djibouti city
+56,Dominica,Null
+57,Dominican Republic (the),Null
+58,Ecuador,Loja province
+59,Egypt,Nile river Valley
+60,El Salvador,San Salvador
+61,Equatorial Guinea,Bata
+62,Eritrea,Null
+63,Estonia,Pärnu
+64,Ethiopia,Null
+65,Fiji,Much of nation
+66,Finland,Null
+67,France,Val d'Isere
+68,French Guiana,Null
+69,French Polynesia,Tuomoto
+70,Gabon,Agooue maritime
+71,Gambia (the),Null
+72,Georgia,Dzhava-Tskhinvazli area
+73,Germany,Null
+74,Germany Dem Rep,East Berlin
+75,Germany Fed Rep,Lower Saxony
+76,Ghana,Countrywide
+77,Greece,Piraeus city (Attikis district
+78,Grenada,Null
+79,Guadeloupe,Null
+80,Guam,Null
+81,Guatemala,South West coast
+82,Guinea,Upper and Middle region
+83,Guinea-Bissau,North
+84,Guyana,East coast
+85,Haiti,Les Cayes region
+86,Honduras,Null
+87,Hong Kong,Taipo area
+88,Hungary,Tisza
+89,Iceland,Heimaey Is.
+90,India,Broach
+91,Indonesia,Null
+92,Iran (Islamic Republic of),Karnaveh
+93,Iraq,Null
+94,Ireland,Null
+95,Isle of Man,Null
+96,Israel,Neot Hakikar
+97,Italy,Genoa provinces
+98,Jamaica,Entire Island
+99,Japan,Kyushu Island
+100,Jordan,Null
+101,Kazakhstan,Embinskyi
+102,Kenya,Countrywide
+103,Kiribati,Tarawa & Funafuti
+104,Korea (the Democratic People's Republic of),Null
+105,Korea (the Republic of),East
+106,Kuwait,Al-Jahra town (Gulf state)
+107,Kyrgyzstan,Dshalal-Abad
+108,Lao People's Democratic Republic (the),Vientiane
+109,Latvia,Null
+110,Lebanon,Bekaa valley
+111,Lesotho,Teytey
+112,Liberia,Null
+113,Libya,Khums
+114,Lithuania,Null
+115,Luxembourg,Moselle Valley
+116,Macao,Null
+117,Macedonia (the former Yugoslav Republic of),Null
+118,Madagascar,Central
+119,Malawi,Lake Malawi Shores
+120,Malaysia,West Malaysia
+121,Maldives,Widespread
+122,Mali,Niger River area
+123,Marshall Islands (the),Null
+124,Martinique,Null
+125,Mauritania,Null
+126,Mauritius,Rodrigues Isl.
+127,Mexico,Mexico city
+128,Micronesia (Federated States of),Null
+129,Moldova (the Republic of),Hancesti
+130,Mongolia,North
+131,Montenegro,Berane
+132,Montserrat,Null
+133,Morocco,Northern regions
+134,Mozambique,Null
+135,Myanmar,Pyinmana
+136,Namibia,Null
+137,Nepal,Lete
+138,Netherlands (the),Null
+139,Netherlands Antilles,Null
+140,New Caledonia,Noumea
+141,New Zealand,Kermandec Is.
+142,Nicaragua,North West
+143,Niger (the),Null
+144,Nigeria,Ibadan
+145,Niue,Alofi
+146,Northern Mariana Islands (the),Saipan
+147,Norway,Null
+148,Oman,Masirah Isl.
+149,Pakistan,Tangir
+150,Palau,Angaur
+151,Palestine, State of
+152,Panama,Chiriqui province
+153,Papua New Guinea,Madang
+154,Paraguay,Asuncion
+155,Peru,Chimbote
+156,Philippines (the),Luzon
+157,Poland,Southwest
+158,Portugal,Atlantic Coast
+159,Puerto Rico,Null
+160,Qatar,Doha
+161,Réunion,Sainte Rose
+162,Romania,East
+163,Russian Federation (the),Altajskij Kraj (Siberia)
+164,Rwanda,Countrywide
+165,Saint Barthélemy,Null
+166,Saint Helena, Ascension and Tristan da Cunha
+167,Saint Kitts and Nevis,Null
+168,Saint Lucia,Null
+169,Saint Martin (French Part),Null
+170,Saint Vincent and the Grenadines,Null
+171,Samoa,Northwest Savaii Isl.
+172,Sao Tome and Principe,Countrywide
+173,Saudi Arabia,South regions
+174,Senegal,Countrywide
+175,Serbia,Borski
+176,Serbia Montenegro,Mojokovac (Montenegro)
+177,Seychelles,Praslin
+178,Sierra Leone,Atlantic coast
+179,Singapore,Null
+180,Sint Maarten (Dutch part),Null
+181,Slovakia,Null
+182,Slovenia,Bovec
+183,Solomon Islands,Santa Cruz
+184,Somalia,North West to Central areas
+185,South Africa,N. Natal
+186,South Sudan,Bor
+187,Soviet Union,Pamir Mountains (Tadjikistan?)
+188,Spain,Null
+189,Sri Lanka,Null
+190,Sudan (the),Gash River (Central and Esat region)
+191,Suriname,Tapanahony
+192,Swaziland,Nationwide
+193,Sweden,Null
+194,Switzerland,Reckingen
+195,Syrian Arab Republic,North
+196,Taiwan (Province of China),Kaohsiung
+197,Tajikistan,Murgabsky
+198,Tanzania, United Republic of
+199,Thailand,South
+200,Timor-Leste,Lospalos
+201,Togo,Countrywide
+202,Tokelau,Fakaofo
+203,Tonga,Ha'api Isl Group
+204,Trinidad and Tobago,Central
+205,Tunisia,Medjerda river Valley
+206,Turkey,Gediz
+207,Turkmenistan,Null
+208,Turks and Caicos Islands (the),Null
+209,Tuvalu,Funafuti
+210,Uganda,Karamoja
+211,Ukraine,Crimea
+212,United Arab Emirates (the),Fujairah
+213,United Kingdom of Great Britain,Null
+214,United States of America (the),Lubbock (Texas)
+215,Uruguay,East
+216,Uzbekistan,Andizhan oblast
+217,Vanuatu,Efate
+218,Venezuela (Bolivarian Republic of),Tachira
+219,Viet Nam,North
+220,Virgin Island (British),Null
+221,Virgin Island (U.S.),Null
+222,Wallis and Futuna,Null
+223,Yemen,Jabal Bahr
+224,Yemen Arab Rep,Hugaryah Area (Taiz province)
+225,Yemen P Dem Rep,Null
+226,Yugoslavia,Belgrade
+227,Zambia,Lusaka
+228,Zimbabwe,Null

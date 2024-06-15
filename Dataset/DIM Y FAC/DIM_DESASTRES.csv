@@ -1,0 +1,15 @@
+﻿ID;NOMBRE;TIPO_DESASTRE
+1;Animal accident;Biological
+2;Drought;Climatological
+3;Earthquake;Geophysical
+4;Epidemic;Biological
+5;Extreme temperature ;Meteorological
+6;Flood;Hydrological
+7;Glacial lake outburst;Climatological
+8;Impact;Extra-terrestrial
+9;Insect infestation;Biological
+10;Landslide;Hydrological
+11;Mass movement (dry);Geophysical
+12;Storm;Meteorological
+13;Volcanic activity;Geophysical
+14;Wildfire;Climatological
